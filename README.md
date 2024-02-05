@@ -23,7 +23,7 @@ Through my development as a UCLA graduate and working with clients, I always pre
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="top" width="60%">
 
 - 🔭 I’m currently working on: [My Chatbot](https://github.com/s-magana/my-chatbot)  
   
@@ -37,10 +37,10 @@ Through my development as a UCLA graduate and working with clients, I always pre
 - ⚡ Fun fact: I don't know how to ride a bike...  
 
 
-</td><td valign="top" width="80%">
+</td><td valign="top" width=40%">
 
 <div align="center">
-<img src="" align="center" height="" width="" />
+<img src="https://github.com/s-magana/s-magana/assets/113574110/26e0ae75-dc91-417a-91c8-07cfc90edaee" align="center" height="225px" />
 </div>  
 
 
