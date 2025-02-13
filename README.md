@@ -12,7 +12,7 @@
 
 
  ### Glad to see you here!  
-I'm a full-stack web developer who aims to evolve, innovate, and inspire through technology.
+I'm a software engineer who aims to evolve, innovate, and inspire through technology.
 
 Skilled in JavaScript, React, Node.js, Express.js, and MongoDB, I excel in delivering visually appealing responsive websites with optimized back-end systems to provide an overall smooth user experience.
 
